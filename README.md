@@ -13,4 +13,4 @@ Using the statistical data visualization library, Seaborn, to discover and explo
 - Task 5 : Violin Plots and Box Plots,
 - Task 6: Using Joint Plots for Feature Comparison,
 - Task 7: Observing the Distribution of Values and their Variance with Swarm Plots,
-- Task 8: Observing all Pairwise Correlations,
+- Task 8: Observing all Pairwise Correlations.
